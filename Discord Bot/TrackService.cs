@@ -14,6 +14,8 @@ namespace Discord_Bot
             Tracks = new List<Track>();
             Tracks.Add(new Track("Maple Valley", "maplevalley"));
             Tracks.Add(new Track("Suzuka", "suzuka"));
+            Tracks.Add(new Track("Lime Rock", "limerock"));
+            Tracks.Add(new Track("Spa-Francorchamps", "spa"));
         }
     }
 }
